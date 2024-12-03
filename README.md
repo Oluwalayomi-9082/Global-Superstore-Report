@@ -166,6 +166,8 @@ These profits were generated through their purchases of the Canon ImageCLASS 220
 - Personalized Recommendations: Use purchase history to recommend products customers are likely to buy again, increasing cross-selling opportunities.
 - Feedback-Driven Improvements: Collect customer feedback to understand their preferences and adjust the product offering and service accordingly.
 
+## Thank You
+
 ![](Thank_you.jpeg)
 
 
