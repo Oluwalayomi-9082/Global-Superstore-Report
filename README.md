@@ -121,8 +121,22 @@ The Specific Countries with Negative Profitability for Tables
 - Vietnam: -$1,123.72
 
 ## Key Insights:
-Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization.
+Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization.🥲
 
+
+Least Profitable City in the United States
+- **Carol Stream** is the least profitable city in the U.S., with an average profit of **$9.16.**
+
+## Key Factors and Recommendations:
+Narrow profit margins and aggressive discounting strategies are likely contributing to its low profitability. 
+
+Improving profitability in Carol Stream may involve:
+- Revising pricing strategies.
+- Optimizing operational costs.
+- Adjusting discount policies to enhance overall margins.
+
+
+![image](https://github.com/user-attachments/assets/e10bfe44-62c4-4e48-9940-b4152ff1d60c)
 
 ![image](https://github.com/user-attachments/assets/d42af574-7b60-4031-a31b-824ee6443581)
 
