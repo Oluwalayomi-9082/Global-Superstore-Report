@@ -120,7 +120,7 @@ The Specific Countries with Negative Profitability for Tables
 - Malaysia: -$1,818.94
 - Vietnam: -$1,123.72
 
-## Key Insights:
+## Key Insights
 Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization 
 
 
