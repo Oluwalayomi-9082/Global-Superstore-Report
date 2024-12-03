@@ -27,7 +27,7 @@ b) Why is this city’s average profit so low?
 
 7a) Who are the most valuable customers and what do they purchase?
 
-## Skills / Concept Demonstrated
+## Skills / Concept Demonstrated:
 
 The following Power Bi concept were applied:
 - DAX,
@@ -37,3 +37,9 @@ The following Power Bi concept were applied:
 - Page Navigator,
 - Tooltips,
 - Buttons
+
+## Data Modelling:
+
+Manually connected tables resulting in a star schema model. The **Sales** is the fact table of the model. The remaining 5 tables; **Customer**, **Order**, **Product**, **Shipping**, **Calendar** tables are connected to the **Sales** table using the **Many-to-Many relationship**  
+
+![](Data_Model.PNG)
