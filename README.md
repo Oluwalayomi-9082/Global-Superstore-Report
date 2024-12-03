@@ -121,7 +121,7 @@ The Specific Countries with Negative Profitability for Tables
 - Vietnam: -$1,123.72
 
 ## Key Insights:
-Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization.🥲
+Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization 
 
 
 Least Profitable City in the United States
@@ -135,6 +135,21 @@ Improving profitability in Carol Stream may involve:
 - Optimizing operational costs.
 - Adjusting discount policies to enhance overall margins.
 
+![](Austrialia_Highest_Average.PNG)
+
+The **Copiers** sub-category in Australia recorded the highest average profit of **$36,961.27**.
+
+![](Customers.PNG)
+
+Different customers topped the profit list for each year between 2011-2015. However, the top customers who contributed to the highest profit made by Global Superstore are:
+- Tamara Chand, purchased product with a total sales of $8,399.98.
+- Raymond Buch, with a total sales of $6,718.98.
+- Hunter Lopez, with a sales of $5,039.99.
+
+These profits were generated through their purchases of the Canon ImageCLASS 2200 Advanced Copier.
+
+
+![image](https://github.com/user-attachments/assets/c1bd4a06-94c8-4cba-9a56-d5421efdecc8)
 
 ![image](https://github.com/user-attachments/assets/e10bfe44-62c4-4e48-9940-b4152ff1d60c)
 
