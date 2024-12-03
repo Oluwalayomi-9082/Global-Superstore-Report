@@ -121,16 +121,7 @@ The Specific Countries with Negative Profitability for Tables
 - Vietnam: -$1,123.72
 
 ## Key Insights
-Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization 
-
-
-Least Profitable City in the United States
-- **Carol Stream** is the least profitable city in the U.S., with an average profit of **$9.16.** Narrow profit margins and aggressive discounting strategies are likely contributing to its low profitability. 
-
-
-![](Austrialia_Highest_Average.PNG)
-
-The **Copiers** sub-category in Australia recorded the highest average profit of **$36,961.27**.
+Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization  
 
 ![](Customers.PNG)
 
