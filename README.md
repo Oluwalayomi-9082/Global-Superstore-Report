@@ -89,6 +89,26 @@ In the United States, it is boldy seen that the top three subcategories with the
 - Copiers: $72
 This suggests that heavy or bulky items such as tables and machines tend to have higher shipping costs, which could impact profitability or pricing strategies.🙂
 
+![](Nigeria's_Profitability.PNG)
+
+Looking closely at  your right-hand side of the dashboard, you would notice that Nigeria experienced a total loss of **-$14,601.30 dollars** in profit, reflecting a broader trend of underperformance by African countries compared to top-performing regions globally
+
+The Contributing Factors to Nigeria's Low Profitability could be:
+1. High Discounts (0.36 average)
+- Nigeria offers one of the highest average discounts, likely to stimulate sales. However, while this strategy may increase order volumes, it negatively impacts overall profitability.
+
+2. Shipping Costs
+African nations face higher shipping costs due to:
+- Poor infrastructure: Limited transport networks increase logistical challenges.
+- Elevated import costs: Tariffs and taxes contribute to higher expenses.
+- Shipping inefficiencies: These reduce cost-effectiveness and erode profit margins for goods shipped to Nigeria.
+
+3. Market Dynamics
+Economic conditions:
+- Lower purchasing power in Nigeria may necessitate higher discounts to attract customers, reducing profit margins.
+- Competitive pressures: A reliance on low-margin products in Nigeria could be driving the country's underperformance.
+
+![image](https://github.com/user-attachments/assets/035f4ea7-169c-4a37-b46d-8fd5ec248717)
 
 ![image](https://github.com/user-attachments/assets/e36f3cd5-36f1-46f9-bc81-e1db18774dfd)
 
