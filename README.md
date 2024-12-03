@@ -1,4 +1,4 @@
-# Global-Superstore-Report
+# Global Superstore Sales Report
 
 ![](intro_image_jpg.jpeg)
 
@@ -38,13 +38,13 @@ The following Power Bi concept were applied:
 - Tooltips,
 - Buttons
 
-## Data Modelling:
+## Data Modelling
 
 Manually connected tables resulting in a star schema model. The **Sales** is the fact table of the model. The remaining 5 tables; **Customer**, **Order**, **Product**, **Shipping**, **Calendar** tables are connected to the **Sales** table using the **Many-to-Many relationship**.  
 
 ![](Data_Model.PNG)
 
-## Data Analysis and Visualization:
+## Data Analysis and Visualization
 
 The report comprises 5 pages capturing so many details and presented in a way that’s easily accessible, providing decision-makers with a clear and up-to-date view of the company’s situation.
 
@@ -80,6 +80,15 @@ The top three products for each country are:
 - SAFCO Executive Leather Armchair ($3,116.61)
 - 3D System Cube Printer, Second Generation Magenta ($2,365.98)
 - Hoover Stove, Red ($1,984.54)
+
+![](Subcategory_Sipping_Cost.PNG)
+
+In the United States, it is boldy seen that the top three subcategories with the highest average shipping costs are:
+- Tables: $98
+- Machines: $81
+- Copiers: $72
+This suggests that heavy or bulky items such as tables and machines tend to have higher shipping costs, which could impact profitability or pricing strategies.🙂
+
 
 ![image](https://github.com/user-attachments/assets/e36f3cd5-36f1-46f9-bc81-e1db18774dfd)
 
