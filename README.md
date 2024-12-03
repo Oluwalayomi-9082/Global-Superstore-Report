@@ -40,6 +40,47 @@ The following Power Bi concept were applied:
 
 ## Data Modelling:
 
-Manually connected tables resulting in a star schema model. The **Sales** is the fact table of the model. The remaining 5 tables; **Customer**, **Order**, **Product**, **Shipping**, **Calendar** tables are connected to the **Sales** table using the **Many-to-Many relationship**  
+Manually connected tables resulting in a star schema model. The **Sales** is the fact table of the model. The remaining 5 tables; **Customer**, **Order**, **Product**, **Shipping**, **Calendar** tables are connected to the **Sales** table using the **Many-to-Many relationship**.  
 
 ![](Data_Model.PNG)
+
+## Data Analysis and Visualization:
+
+The report comprises 5 pages capturing so many details and presented in a way that’s easily accessible, providing decision-makers with a clear and up-to-date view of the company’s situation.
+
+You can interact with the report here [here] (Link to the powerbi service)
+
+![](Product_highest_total_profit.PNG)
+
+1. From the dashboard, it is observed that the best performing product across all countries is **Canon imageCLASS 2200 Advanced Copier,** it's sub-category is  **Copier.**
+
+2. Total Revenue made for each year = **61.82M**. This showss that there hav enot been any improvement in sales for the past 5 years.
+
+3. The highest sales is generated in the North America region with **186,078.83 dollars.**
+
+![](Country_highest_total_sales.PNG)
+
+In 2014, it is observed that the three countries that generated the highest total profit for Global Superstore were:
+- United States: $186,078.83
+- Australia: $81,908.83
+- France: $7,472.13
+
+The top three products for each country are:
+1. United States
+- Canon imageCLASS 2200 Advanced Copier ($13,438.96)
+- Ibiko EPK-21 Electric Binding System ($6,274.77)
+- Fellowes PB500 Punch Plastic Comb ($6,227.85)
+
+2. Australia
+- Canon imageCLASS 2200 Advanced Copier ($11,759.97)
+- Hewlett-Packard LaserJet 3310 Copier ($2,591.96)
+- Breville Refrigerator, White ($1,692.00)
+
+3. France
+- SAFCO Executive Leather Armchair ($3,116.61)
+- 3D System Cube Printer, Second Generation Magenta ($2,365.98)
+- Hoover Stove, Red ($1,984.54)
+
+![image](https://github.com/user-attachments/assets/e36f3cd5-36f1-46f9-bc81-e1db18774dfd)
+
+![image](https://github.com/user-attachments/assets/f0730495-b442-4192-8ed2-cb3fafcc2f4b)
