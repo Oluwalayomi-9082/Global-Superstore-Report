@@ -108,6 +108,25 @@ Economic conditions:
 - Lower purchasing power in Nigeria may necessitate higher discounts to attract customers, reducing profit margins.
 - Competitive pressures: A reliance on low-margin products in Nigeria could be driving the country's underperformance.
 
+![](southasia.PNG)
+
+Least Profitable Product Subcategory in Southeast Asia
+The Tables subcategory is the least profitable in Southeast Asia, recording a total loss of **-$10,988.**
+
+The Specific Countries with Negative Profitability for Tables
+- Indonesia: -$4,348.92
+- Philippines: -$2,331.71
+- Thailand: -$2,319.54
+- Malaysia: -$1,818.94
+- Vietnam: -$1,123.72
+
+## Key Insights:
+Indonesia has the most significant loss in this subcategory, with **-$4,348.92.** Global Superstore should consider discontinuing the **Tables** subcategory in Indonesia to minimize losses. Additionally, other Southeast Asian countries with negative profitability for Tables may require further review for potential optimization.
+
+
+![image](https://github.com/user-attachments/assets/d42af574-7b60-4031-a31b-824ee6443581)
+
+
 ![image](https://github.com/user-attachments/assets/035f4ea7-169c-4a37-b46d-8fd5ec248717)
 
 ![image](https://github.com/user-attachments/assets/e36f3cd5-36f1-46f9-bc81-e1db18774dfd)
