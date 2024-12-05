@@ -98,7 +98,8 @@ The Contributing Factors to Nigeria's Low Profitability could be:
 - Nigeria offers one of the highest average discounts, likely to stimulate sales. However, while this strategy may increase order volumes, it negatively impacts overall profitability.
 
 2. Shipping Costs
-African nations face higher shipping costs due to:
+
+  African nations face higher shipping costs due to:
 - Poor infrastructure: Limited transport networks increase logistical challenges.
 - Elevated import costs: Tariffs and taxes contribute to higher expenses.
 - Shipping inefficiencies: These reduce cost-effectiveness and erode profit margins for goods shipped to Nigeria.
